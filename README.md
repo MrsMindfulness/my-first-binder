@@ -1,2 +1,3 @@
 # my-first-binder
-https://github.com/MrsMindfulness/my-first-binder/blob/main/README.md
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MrsMindfulness/my-first-binder/HEAD)
+
